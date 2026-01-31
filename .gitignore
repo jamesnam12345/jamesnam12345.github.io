@@ -1,0 +1,27 @@
+
+__localonly__/
+
+.DS_Store
+
+# Jekyll's files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+
+# Ruby related files
+.bundle/
+*.gem
+Gemfile.lock
+*.swp
+*~
+.ruby-version
+.ruby-gemset
+
+# IDE-generated files
+.idea/
+
+# OS-related files
+.DS_Store
+Thumbs.db

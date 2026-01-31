@@ -4,7 +4,7 @@ title: AI Projects
 permalink: /ai-projects/
 ---
 
-<h1 class="name" style="margin-top: 0; padding-top: 0; margin-bottom: 0; border-bottom: none;">AI Projects</h1>
+<h1 class="name" style="margin-top: 0; padding-top: 0; border-bottom: none;">AI Projects</h1>
 
 <div class="section">
   <div class="item">

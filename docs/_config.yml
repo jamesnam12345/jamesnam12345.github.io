@@ -1,0 +1,14 @@
+title: James Nam
+author:
+  name: James (Yoon Jae) Nam
+  email: jamesnam12345@gmail.com
+description: >-
+  Senior Software Engineer & AI Specialist. Ex-Google (9 years).
+  Expert in Scalable Infrastructure, Real-time Communication, and AI Agents.
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+show_excerpts: true
+header_pages:
+  - index.md

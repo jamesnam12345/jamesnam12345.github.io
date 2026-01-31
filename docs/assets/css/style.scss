@@ -1,0 +1,38 @@
+---
+---
+
+@import "minima";
+
+body {
+  background-color: #1a1a1a;
+  color: #e0e0e0;
+}
+
+a, .site-title, .site-nav .page-link {
+  color: #64b5f6;
+}
+
+a:hover {
+  color: #9be7ff;
+}
+
+.wrapper {
+  max-width: 800px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff;
+}
+
+code {
+    background-color: #333;
+    border: 1px solid #444;
+}
+
+.post-content h2 {
+    border-bottom: 1px solid #444;
+}
+
+.site-footer {
+    border-top: 1px solid #444;
+}

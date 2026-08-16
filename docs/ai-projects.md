@@ -12,17 +12,8 @@ permalink: /ai-projects/
       <span class="company" style="font-size: 1.6rem;">Streaming AI Chat</span>
     </div>
 
-    <div style="margin-bottom: 20px;">
-      <a href="https://jamesn-streaming-ai-chat.vercel.app/" target="_blank" class="btn-large">
-        Launch Live Demo →
-      </a>
-    </div>
-
     <div style="margin-bottom: 30px;">
-      <a href="https://jamesn-streaming-ai-chat.vercel.app/" target="_blank">
-        <img src="../assets/images/ai-chat-demo.png" alt="Streaming AI Chat Demo" style="width: 100%; border-radius: 8px; border: 1px solid #eee; transition: opacity 0.2s;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'">
-      </a>
-      <p style="font-size: 0.8rem; color: #888; margin-top: 8px; text-align: center;">(Click image to launch demo)</p>
+      <img src="../assets/images/ai-chat-demo.png" alt="Streaming AI Chat Demo" style="width: 100%; border-radius: 8px; border: 1px solid #eee;">
     </div>
     
     <div class="role" style="font-size: 1.1rem; font-weight: 500;">Next.js 16 • React 19 • Vercel AI SDK • Gemini 2.5 Flash</div>
